@@ -3,7 +3,7 @@ Reinforcement Learning based final project for UW IND E 599: Markov Decision Prc
 
 To run the demo use:
 
-Demo -- Enter value of number of episodes
+Demo 
 
 
 Resources to learn RL : 
